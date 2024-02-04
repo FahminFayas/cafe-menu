@@ -49,3 +49,22 @@ hr {
     text-align: left;
     width: 75%;
 }
+.bottom-line {
+    margin-top: 25px;
+}
+/* FOOTER */
+footer {
+    font-size: 14px;
+}
+a {
+    color: black;
+}
+a:visited {
+    color: black;
+}
+a:hover {
+    color: brown;
+}
+a:active {
+    color: brown;
+}
